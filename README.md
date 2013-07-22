@@ -20,6 +20,9 @@ If you see <tab> that means you hit the tab key
 * Install command line tools from xcode
 * Install homebrew http://mxcl.github.io/homebrew/
 
+#### Dotfiles
+* coreutils for nice `ll`, `l`, and `ls` `$ brew install coreutils`
+
 #### Ruby
 * Install rbenv `$ brew install rbenv`
 * Install ruby-build `$ brew install ruby-build`

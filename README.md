@@ -15,10 +15,10 @@ If you see <tab> that means you hit the tab key
 * Install latest xcode from app store
 * Install command line tools from xcode
 * Install homebrew 
-* Install rbenv `brew install rbenv`
-* Install ruby-build `brew install ruby-build`
-* Install latest ruby 1.9.3 `rbenv install 1.9.3-p<tab><tab>` and use the highest version there
-* Install node `brew install node`
+* Install rbenv `$ brew install rbenv`
+* Install ruby-build `$ brew install ruby-build`
+* Install latest ruby 1.9.3 `$ rbenv install 1.9.3-p<tab><tab>` and use the highest version there
+* Install node `$ brew install node`
 * Install RubyMine (google it)
 
 

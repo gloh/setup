@@ -24,6 +24,7 @@ If you see <tab> that means you hit the tab key
 * Install rbenv `$ brew install rbenv`
 * Install ruby-build `$ brew install ruby-build`
 * Install latest ruby 1.9.3 `$ rbenv install 1.9.3-p<tab><tab>` and use the highest version there
+* Set 1.9.3 as global default `$ rbenv global 1<tab>`
 
 #### Node
 * Install node `$ brew install node`

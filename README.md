@@ -63,7 +63,6 @@ If you see <tab> that means you hit the tab key
 19. Facilitate a passionate discussion about the business
 20. Whats a Flamboyance?
 21. Draw a Picture of a Flamingo in crayons
-22. Eat Indian food with Riley and learn about his passion for product
-23. Spend a late night downtown at Sustain's office
-24. 
+22. Spend a late night downtown at Sustain
+23. 
 

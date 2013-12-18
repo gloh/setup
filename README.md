@@ -43,26 +43,25 @@ If you see <tab> that means you hit the tab key
 
 ##Onboarding Process: FC Flamingo
 1. Have a drink(s) with the partners at TLT
-2. Take a client from start to finish
+2. Work with a client from start to finish
 3. Go to a tech meetup
-4. Bring a friend to work who loves computers
+4. Bring a friend to work whose interested in what we do
+18. Get onto Google Docs
 5. Have a meal with your peers
-6. Eat out with your clients
-7. Dress casual to work one day
+6. Eat out with clients
+7. You can dress smart casual at work
 8. Pull your weight! Bring us a client!
 9. Learn about the history of the Daily Journal Corporation 
-10. Develop a list of why you dislike any of the major tech companies
-11. Document an entire client engagement and use your work to gain insights, share those with the partners
-12. Try surfing with Ethan
-13. Visit a creative co-work space and see how it feels
-14. Get an @fcflamingo.com account
+10. Develop a list of what you dislike about other tech companies
+11. Document an entire client engagement and use your work to gain insights, share those insights with the partners
+13. Visit/Work at a creative co-work space
+14. Get an @fcflamingo.com email account
 15. Get onto Github
-16. Get onto Hipchat and "Pug bomb" us
 17. Learn fun facts about Flamingos.
-18. Get onto Google Docs
-19. Facilitate a passionate discussion about the business
+16. Get onto Hipchat and use "Pug bomb" 
 20. Whats a Flamboyance?
-21. Draw a Picture of a Flamingo in crayons
+21. Draw a Picture of a Flamingo in crayons for our website
 22. Spend a late night downtown at Sustain
-23. 
+23. Share a list of websites you find interesting
+24. 
 
